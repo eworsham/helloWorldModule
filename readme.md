@@ -3,7 +3,7 @@
 This project is a HelloWorld program written in C# and .NET 9.0. Written using Visual Studio Code. I created this program to
 demostrate how C# and .NET 9.0 can be written inside of VSCode.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/lZYeLthY-yI))
 
 # Development Environment
 
