@@ -7,10 +7,10 @@ demostrate how C# and .NET 9.0 can be written inside of VSCode.
 
 # Development Environment
 
-C# and .NET 9.0
-
-Developed in Visual Studio Code
+* C#
+* .NET 9.0
+* Developed in Visual Studio Code
 
 # Useful Websites
 
-* [.NET 9.0 Documentation](https://learn.microsoft.com/en-us/dotnet/api/?view=net-9.0)
+[.NET 9.0 Documentation](https://learn.microsoft.com/en-us/dotnet/api/?view=net-9.0)
